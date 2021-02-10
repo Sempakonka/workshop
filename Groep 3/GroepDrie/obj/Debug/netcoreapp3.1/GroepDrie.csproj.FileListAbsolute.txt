@@ -1,0 +1,13 @@
+C:\Users\Renzo\Desktop\workshop\Groep 3\GroepDrie\bin\Debug\netcoreapp3.1\GroepDrie.exe
+C:\Users\Renzo\Desktop\workshop\Groep 3\GroepDrie\bin\Debug\netcoreapp3.1\GroepDrie.deps.json
+C:\Users\Renzo\Desktop\workshop\Groep 3\GroepDrie\bin\Debug\netcoreapp3.1\GroepDrie.runtimeconfig.json
+C:\Users\Renzo\Desktop\workshop\Groep 3\GroepDrie\bin\Debug\netcoreapp3.1\GroepDrie.runtimeconfig.dev.json
+C:\Users\Renzo\Desktop\workshop\Groep 3\GroepDrie\bin\Debug\netcoreapp3.1\GroepDrie.dll
+C:\Users\Renzo\Desktop\workshop\Groep 3\GroepDrie\bin\Debug\netcoreapp3.1\GroepDrie.pdb
+C:\Users\Renzo\Desktop\workshop\Groep 3\GroepDrie\obj\Debug\netcoreapp3.1\GroepDrie.csprojAssemblyReference.cache
+C:\Users\Renzo\Desktop\workshop\Groep 3\GroepDrie\obj\Debug\netcoreapp3.1\GroepDrie.AssemblyInfoInputs.cache
+C:\Users\Renzo\Desktop\workshop\Groep 3\GroepDrie\obj\Debug\netcoreapp3.1\GroepDrie.AssemblyInfo.cs
+C:\Users\Renzo\Desktop\workshop\Groep 3\GroepDrie\obj\Debug\netcoreapp3.1\GroepDrie.csproj.CoreCompileInputs.cache
+C:\Users\Renzo\Desktop\workshop\Groep 3\GroepDrie\obj\Debug\netcoreapp3.1\GroepDrie.dll
+C:\Users\Renzo\Desktop\workshop\Groep 3\GroepDrie\obj\Debug\netcoreapp3.1\GroepDrie.pdb
+C:\Users\Renzo\Desktop\workshop\Groep 3\GroepDrie\obj\Debug\netcoreapp3.1\GroepDrie.genruntimeconfig.cache
