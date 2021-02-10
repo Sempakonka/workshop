@@ -1,0 +1,13 @@
+C:\Users\Marc Bekhuis\Downloads\workshop\Groep 1\GroepEen\obj\Debug\netcoreapp3.1\GroepEen.csprojAssemblyReference.cache
+C:\Users\Marc Bekhuis\Downloads\workshop\Groep 1\GroepEen\obj\Debug\netcoreapp3.1\GroepEen.AssemblyInfoInputs.cache
+C:\Users\Marc Bekhuis\Downloads\workshop\Groep 1\GroepEen\obj\Debug\netcoreapp3.1\GroepEen.AssemblyInfo.cs
+C:\Users\Marc Bekhuis\Downloads\workshop\Groep 1\GroepEen\obj\Debug\netcoreapp3.1\GroepEen.csproj.CoreCompileInputs.cache
+C:\Users\Marc Bekhuis\Downloads\workshop\Groep 1\GroepEen\bin\Debug\netcoreapp3.1\GroepEen.exe
+C:\Users\Marc Bekhuis\Downloads\workshop\Groep 1\GroepEen\bin\Debug\netcoreapp3.1\GroepEen.deps.json
+C:\Users\Marc Bekhuis\Downloads\workshop\Groep 1\GroepEen\bin\Debug\netcoreapp3.1\GroepEen.runtimeconfig.json
+C:\Users\Marc Bekhuis\Downloads\workshop\Groep 1\GroepEen\bin\Debug\netcoreapp3.1\GroepEen.runtimeconfig.dev.json
+C:\Users\Marc Bekhuis\Downloads\workshop\Groep 1\GroepEen\bin\Debug\netcoreapp3.1\GroepEen.dll
+C:\Users\Marc Bekhuis\Downloads\workshop\Groep 1\GroepEen\bin\Debug\netcoreapp3.1\GroepEen.pdb
+C:\Users\Marc Bekhuis\Downloads\workshop\Groep 1\GroepEen\obj\Debug\netcoreapp3.1\GroepEen.dll
+C:\Users\Marc Bekhuis\Downloads\workshop\Groep 1\GroepEen\obj\Debug\netcoreapp3.1\GroepEen.pdb
+C:\Users\Marc Bekhuis\Downloads\workshop\Groep 1\GroepEen\obj\Debug\netcoreapp3.1\GroepEen.genruntimeconfig.cache
