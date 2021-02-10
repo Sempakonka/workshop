@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "SpIwBm01Q85cvgQ/yqiwZSAXyT7CdxjJEMOx9pN1DIXqdQfcwrf8Vn7k9bkrX571hJ4mzue/JjDeTWujmrwl1A==",
+  "dgSpecHash": "4wwvw0W6ZcEeVXERpqvDTVuDgETGwGjlTI8dpyWrOd2feHNBvz48eKA/v0YNg1vuKNhV4RWenbvPxHQLbzdcIA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gebruiker\\Documents\\SCHOOL\\Workshop\\Repo\\workshop\\Groep 3\\GroepDrie\\GroepDrie.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Renzo\\Desktop\\workshop\\Groep 3\\GroepDrie\\GroepDrie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Renzo\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Renzo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
